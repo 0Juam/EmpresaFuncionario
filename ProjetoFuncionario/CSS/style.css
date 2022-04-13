@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #4f6d7a;
+    font-family: sans-serif;
+    font-size: 1em;
+    margin-top: 2%;
+    margin-left: 32%;
+}
+
+#tela{
+    width: 500px;
+    height: 680px;
+    background: #c0d6df;
+    padding: 40px;
+    padding-top: 5px;
+    color: white;
+    justify-content: center;
+    border-radius: 20px; 
+    }
+
+input, select, textarea, button{
+    border-radius: 5px;
+}
+
+.botao{
+    height: 30px;
+    width: 70px;
+    background: #4f6d7a;
+    color: white;
+    left: 15%; 
+  
+}
